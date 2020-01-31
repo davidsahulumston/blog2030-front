@@ -1,0 +1,49 @@
+.containerVideo {
+  width: 90%;
+}
+
+.mainTitle {
+  font-size: 28px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.avatarMain {
+  margin: 10px;
+  width: 50px !important;
+  height: 50px !important;
+}
+
+.subtitleMain {
+  padding-top: 1.5em;
+  font-size: 16px;
+  font-weight: bold;
+  color: gray;
+}
+
+.containerAvatar {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  padding-top: 2em;
+  padding-bottom: 1em;
+}
+
+.generalText{
+    width: 80%;
+    text-align: justify;
+    padding-top: 2em;
+}
+
+.titleDescription{
+    padding-bottom: 1em;
+}
+
+.headerDescripion{
+    width: 90%;
+    text-align: center;
+}
+
+.starsDescription {
+  padding-top: 3em;
+}

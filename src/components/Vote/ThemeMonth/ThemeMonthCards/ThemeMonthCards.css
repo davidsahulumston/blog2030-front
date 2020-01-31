@@ -1,0 +1,10 @@
+.buttonTheme {
+    padding-left: 3.5em;
+}
+
+.containerThemes {
+    padding-top: 4em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

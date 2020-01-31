@@ -1,0 +1,23 @@
+.titleUploadIdea{
+    font-size: 2.5em;
+    font-weight:bolder;
+    text-align: center;
+    padding-top: 1.2em;
+    padding-bottom: .6em;
+}
+
+.subtitleUploadIdea{
+    font-size: 1.5em;
+    text-align: center;
+    padding-bottom: .6em;
+}
+
+.formUploadIdea {
+    width: 30em;
+}
+
+.centerDropDown{
+    display: flex;
+    justify-content: center;
+}
+

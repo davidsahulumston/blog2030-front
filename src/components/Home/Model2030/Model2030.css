@@ -1,0 +1,10 @@
+.container {
+    padding-top: 4em;
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttonDetails {
+    display: flex;
+    justify-content: center;
+}

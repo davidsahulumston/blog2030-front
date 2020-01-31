@@ -1,0 +1,13 @@
+
+.file-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    margin-right: 1em;
+}
+
+.file-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start; 
+}

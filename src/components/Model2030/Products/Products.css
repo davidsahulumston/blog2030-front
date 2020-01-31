@@ -1,0 +1,14 @@
+.titleProducts {
+    padding-top: 2em;
+}
+
+.containerProducts {
+    color: #2183c7;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 2em;
+}
+
+.detachmentProducts {
+    padding-bottom: 2em;
+}

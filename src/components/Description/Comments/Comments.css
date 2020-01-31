@@ -1,0 +1,23 @@
+.sizeContent {
+  height: 20em;
+}
+
+.buttonComments {
+  padding-bottom: 1em;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.comments {
+    width: 70%;
+    padding-left: 4em;
+    text-align: justify;
+    padding-bottom: 3em;
+}
+
+.answerComment {
+    display: flex;
+    flex-direction: row-reverse;
+    font-weight: bold;
+    padding-bottom:1em;
+}

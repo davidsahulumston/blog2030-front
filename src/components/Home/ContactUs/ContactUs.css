@@ -1,0 +1,67 @@
+.container {
+    display: flex;
+}
+
+.textName{
+    width: 100%!important;
+}
+
+.textEmail {
+    width: 45% !important;
+}
+
+.textPhone {
+    width: 45% !important;
+    padding-left: 4.1em!important;
+}
+
+.textMessage {
+    width: 100%;
+}
+
+.buttonSend {
+    padding-top: 2em;
+    padding-bottom: 1em;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact{
+    width: 60%;
+    padding-left: 3em;
+}
+
+.title {
+    padding-bottom: 2em;
+}
+
+.paragraph {
+    padding-top: 2em;
+}
+
+.imageContainer {
+    height: 20em;
+    background: rgba(71, 117, 179, 0.3);
+    /* background-image: url('../assets/tec.jpg'); */
+}
+
+.textTransformation {
+    font-size: 50px;
+    font-weight: bolder;
+    color: white;
+}
+
+.paragrahTranformation {
+    color: white;
+    font-size: 25px;
+}
+
+.textDigital {
+    text-align: center;
+    padding-top: 8%;
+}
+
+.separator {
+    padding-bottom: 3em;
+    padding-top: 3em;
+}

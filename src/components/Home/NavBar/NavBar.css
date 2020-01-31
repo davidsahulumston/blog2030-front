@@ -1,0 +1,33 @@
+.background {
+    background-color: white!important;
+}
+
+.button {
+    width: 15em;
+    border-radius: 60px!important;
+    height: 3em;
+    background-color:#2B96D7!important ;
+}
+
+.logoTec {
+    width: 13em;
+    height: 8em;
+}
+
+.menu {
+    display: flex;
+    color: black;
+    text-align: center;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.text {
+    padding-left: 2.5em;
+    padding-right: 2.5em;
+}
+
+.text-reset {
+    text-decoration: none;
+    color: black;
+}

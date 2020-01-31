@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+}
+
+.cards {
+    padding-left: 3em;
+}
+
+.space-btw-cards {
+    padding-bottom: 3.3em;
+}

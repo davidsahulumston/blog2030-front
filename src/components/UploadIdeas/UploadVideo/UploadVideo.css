@@ -1,0 +1,48 @@
+.containerUpload {
+  display: flex;
+}
+
+.field-name {
+  width: 22.5em;
+}
+
+.fieldTags {
+  width: 33em;
+}
+
+.titleUploadVideo {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: left;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.textUpload {
+  width: 45em !important;
+}
+
+.containerUploadInputs {
+  display: flex;
+}
+
+.alignInputs {
+  padding-top: 1.3em;
+}
+
+.sizeElement {
+  height: 13em;
+}
+
+.iconDelete {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.individualIcon{
+  position: absolute;
+  z-index: 3;
+  left: 3em;
+  top:-115px;
+}

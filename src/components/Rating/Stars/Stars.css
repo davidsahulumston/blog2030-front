@@ -1,0 +1,27 @@
+.containerStars {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.voteButton {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 1em;
+}
+
+.numberVotes {
+    font-weight: bold;
+    font-size: 17px;
+    padding-left: 1em;
+}
+
+.buttonsModal {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.totalVotes {
+    font-size: 13px;
+    color:#C3C9CE;
+}

@@ -1,0 +1,19 @@
+.cardModel {
+  max-width: 20em;
+  height: 30em;
+}
+.textBelow {
+  padding-bottom: 1em;
+  color: grey;
+}
+
+.upperTextModel {
+  padding-bottom: 1em;
+  color: #2183c7;
+}
+
+.iconExpand {
+    text-align: center;
+    font-size: 20px!important;
+    font-weight: bold;
+}

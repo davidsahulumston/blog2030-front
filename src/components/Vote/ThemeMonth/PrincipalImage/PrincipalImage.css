@@ -1,0 +1,10 @@
+.imageBackground{
+    height: 30em;
+    background: rgba(71, 117, 179, 0.3);
+}
+
+.colorText{
+    color: white;
+    text-align: center;
+    padding-top:10%;
+}

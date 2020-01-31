@@ -1,0 +1,3 @@
+
+export const FETCH_BLOGS_IMAGES = 'FETCH_BLOGS_IMAGES';
+export const USER_VOTE = 'USER_VOTE';

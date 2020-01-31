@@ -1,0 +1,10 @@
+.dropzone-content {
+    height: 3em;
+    width: 100%;
+    border-style: dotted;
+    border-color: #2183C7;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    padding-top: 1.7em;
+}
